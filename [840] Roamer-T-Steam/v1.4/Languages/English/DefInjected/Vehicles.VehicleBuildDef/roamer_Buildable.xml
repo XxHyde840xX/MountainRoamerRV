@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>	
+		
+	
+	<!-- EN: Mountain Roamer Blueprint Translation -->
+		<roamer_Blueprint.label>Mountain Roamer</roamer_Blueprint.label>
+		<roamer_Blueprint.description>No matter how strong you build your walls, there may come a day when they fall. When they do, the Mountain Roamer is the obvious choice to bug out in. Featuring loads of room for passengers and cargo, this rugged and powerful 6x6 will get you out of the fray in a hurry. And if all's well on the homefront? Use it for long-distance business and trade, or find somewhere scenic to take a nice camping trip. \n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x5\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</roamer_Blueprint.description>
+	
+</LanguageData>
